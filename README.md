@@ -15,6 +15,10 @@
     <img src="./daisyui.svg" alt="DaisyUI" width="50" height="50" style="margin-right:10px;"/>
     <img src="./git.svg" alt="Git" width="50" height="50" style="margin-right:10px;"/>
     <img src="./tailwind.svg" alt="Tailwind CSS" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./react.svg" alt="React" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./postman.svg" alt="Postman" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./nodejs.svg" alt="Node.js" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./csharp.svg" alt="C#" width="50" height="50" style="margin-right:10px;"/>
 </p>
 
 ---
