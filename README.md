@@ -1,14 +1,21 @@
 ### 👋 Welcome here, I'm Szirony Balázs Gábor!
 
 ---
-Currently used programming 
+### 🧰 Languages, Frameworks & Tools:
 
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="./HTML5.svg" alt="HTML5" width="50" height="50"/>
-    <img src="./CSS3.svg" alt="CSS3" width="50" height="50"/>
-    <img src="./Javascript.svg" alt="JavaScript" width="50" height="50"/>
+<p align="left">
+    <img src="./HTML5.svg" alt="HTML5" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./CSS3.svg" alt="CSS3" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./javascript.svg" alt="JavaScript" width="50" height="50" style="margin-right:10px;"/>
     <img src="./php.svg" alt="PHP" width="50" height="50"/>
-</div>
+    <img src="./laravel.svg" alt="Laravel" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./mysql.svg" alt="MySQL" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./python.svg" alt="Python" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./vite.svg" alt="Vite" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./daisyui.svg" alt="DaisyUI" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./git.svg" alt="Git" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./tailwind.svg" alt="Tailwind CSS" width="50" height="50" style="margin-right:10px;"/>
+</p>
 
 
 
