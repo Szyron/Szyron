@@ -6,7 +6,7 @@
 <p align="left">
     <img src="./HTML5.svg" alt="HTML5" width="50" height="50" style="margin-right:10px;"/>
     <img src="./CSS3.svg" alt="CSS3" width="50" height="50" style="margin-right:10px;"/>
-    <img src="./javascript.svg" alt="JavaScript" width="50" height="50" style="margin-right:10px;"/>
+    <img src="./Javascript.svg" alt="JavaScript" width="50" height="50" style="margin-right:10px;"/>
     <img src="./php.svg" alt="PHP" width="50" height="50" style="margin-right:10px;"/>
     <img src="./laravel.svg" alt="Laravel" width="50" height="50" style="margin-right:10px;"/>
     <img src="./mysql.svg" alt="MySQL" width="50" height="50" style="margin-right:10px;"/>
