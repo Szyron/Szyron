@@ -17,6 +17,7 @@
     <img src="./tailwind.svg" alt="Tailwind CSS" width="50" height="50" style="margin-right:10px;"/>
 </p>
 
+![Szyron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Szyron&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 
 
