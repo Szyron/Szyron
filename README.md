@@ -21,12 +21,4 @@
     <img src="./csharp.svg" alt="C#" width="50" height="50" style="margin-right:10px;"/>
 </p>
 
----
-### 📊 GitHub Stats:
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Szyron&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Szyron's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szyron&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Szyron's Top Languages" />
-</p>
-
 
